@@ -1,0 +1,54 @@
+<div class="one-third">
+	&nbsp;</div>
+<h1 style="text-align: center;">
+	<strong><span style="font-family:verdana,geneva,sans-serif;">Mobile App Development</span></strong></h1>
+<div class="one-third">
+	&nbsp;</div>
+<div class="one-third">
+	&nbsp;</div>
+<div class="one-third" style="text-align: center;">
+	&nbsp;</div>
+<div class="one-third">
+	&nbsp;</div>
+<div class="one-third" style="text-align: center;">
+	<img alt="http://www.vastedge.com/vastedge/images/banner_img2_0.png" class="transparent" src="http://www.vastedge.com/vastedge/images/banner_img2_0.png" /></div>
+<div class="one-third">
+	&nbsp;</div>
+<h1 style="text-align: center;">
+	<span style="font-family:arial,helvetica,sans-serif;">iOS App Development</span></h1>
+<p>
+	<img alt="https://lh4.googleusercontent.com/-kxntzFMuwSU/AAAAAAAAAAI/AAAAAAAAAAc/wB-gY2fIOk4/photo.jpg" class="transparent" height="131" src="https://lh4.googleusercontent.com/-kxntzFMuwSU/AAAAAAAAAAI/AAAAAAAAAAc/wB-gY2fIOk4/photo.jpg" style="float: left;" width="131" /></p>
+<p>
+	<span style="font-family:comic sans ms,cursive;">From iPhone to iPad to Apple Watch - we&#39;ve built a boatload of iOS apps. A very large, powerful boat. Can your app say, &quot;I&#39;m on a boat!&#39;? Ours can. Sourcebits made our mark developing iOS apps. </span></p>
+<p>
+	<span style="font-family:comic sans ms,cursive;">Several hundred iPhone and iPad apps later, we&rsquo;ve achieved success in almost every category for just about every industry. We&rsquo;re also experienced in Swift, and have the best team of C and Objective-C coders.</span></p>
+<p>
+	<span style="font-family:comic sans ms,cursive;">Tap into our iOS development talent-pool to build beautiful apps, enterprise-grade mobile solutions, or engaging games. </span></p>
+<p>
+	With the advent of iOS technological advancements, we build elegant and engaging iPhone applications that will not only make your business lucrative but also performance oriented. Our professional iPhone application developers always design and develop user-friendly and easy-to-use mobile apps.</p>
+<p>
+	&nbsp;</p>
+<div class="two-thirds two-thirds-line">
+	<div class="one-third">
+		&nbsp;</div>
+	<h1 style="text-align: center;">
+		<span style="font-family:arial,helvetica,sans-serif;">Android Development</span></h1>
+	<h1 style="text-align: center;">
+		<span style="font-family:comic sans ms,cursive;"><img alt="http://www.nyns4.com/wp-content/uploads/2015/05/url.png" class="transparent" src="http://www.nyns4.com/wp-content/uploads/2015/05/url.png" style="float: right; width: 131px; height: 131px;" /></span></h1>
+	<p>
+		<span style="font-family:comic sans ms,cursive;">Android apps live in a highly fragmented multi-device world. The API rules are less strict, but quality assurance testing is more intensive. We handle it. We&rsquo;ve developed hundreds of cool Android apps on releases from 2.X to 5.X. From Gingerbread to Lollipop, simple phones to custom devices to Android wearables &mdash; we&rsquo;ve done it all.</span></p>
+	<p>
+		<span style="font-family:comic sans ms,cursive;">Develop powerful, highly usable Android apps that solve business problems, attract users, and reinforce your brand.&nbsp;</span></p>
+</div>
+<div class="today-at">
+	<p>
+		Today, at least 70% of Smartphone users across the globe are using Android OS. Therefore, Android application development is crucial to any business, particularly bespoke Android app development. At least 800 million individuals use Android apps worldwide, thus having a result-focused Android app development tactic is a way to business success.</p>
+	<p>
+		Mindinventory, a leading <span class="all_taq_link">Android App Development Company</span> that use quality tools, professionalism and experience in Android app programming, Android app testing, Android app designing to enhance the best usability, easy usage and user experiences. We ensure a greatly responsive and responsible setting for Android app development by using updated project management software and novel communication technologies.</p>
+	<p>
+		MindInventory has a team of <span class="all_taq_link">Android app developers</span> who address quickly changing technology and business needs by developing Android applications customized to convene strategic business objectives. Therefore, if you have a good idea of an Android app, we will work together to turn your inspiration into reality. No matter the goal or use of your app we have the skills and expertise to create a top standard Android app.</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+</div>

@@ -1,0 +1,44 @@
+<h1 style="text-align: center;">
+	<b>Front-end web development</b></h1>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p style="text-align: center;">
+	<b><img alt="" src="https://d13yacurqjgara.cloudfront.net/users/751348/screenshots/2329465/open-position-frontend-developer-dribbble-2-preview_1x.png" style="width: 400px; height: 300px;" /></b></p>
+<p>
+	&nbsp;</p>
+<p>
+	The objective of designing a site is to ensure that when the users open up the site they see the information in a format that is easy to read and relevant. This is further complicated by the fact that users now use a large variety of devices with varying screen sizes and resolutions thus forcing the designer to take into consideration these aspects when designing the site.</p>
+<p>
+	There are several tools available that can be used to develop the front end of a website, and understanding which tools are best fit for specific tasks marks the difference between developing a hacked site and a well designed, scalable site.</p>
+<h3>
+	<strong>HTML5 , CSS3, JAVASCRIPT.</strong></h3>
+<p>
+	&nbsp;</p>
+<p style="text-align: center;">
+	<img alt="" height="295" src="https://www.frontendhandbook.com/images/web-tech-employed.jpg" width="630" /></p>
+<p>
+	&nbsp;</p>
+<div class="large-6 columns">
+	<div>
+		<p>
+			<strong>Website development</strong> is necessary&nbsp;when you want to empower your business it with dynamic&nbsp;opportunities and worldwide success. The&nbsp;features can be as simple as sending an email from a contact form or doing an online hotel booking. No matter what the needs of your website, we have experienced web development and web programming teams who are always ready to take challenge.</p>
+		<p>
+			&nbsp;</p>
+		<p>
+			For us website development is not just writing a snippet of a programming code. Instead, it is about building a bespoke online web application that works in real time and that can be browsed by website users without any difficulties. Our development team at Lead Infosoft Surat is updating the knowledge on a daily basis in order to make sure that the in-house website developed applications make the most of the new technologies.</p>
+		<p>
+			&nbsp;</p>
+		<h2>
+			Templates and CMS, web frameworks</h2>
+		<p>
+			The technical flesh and bones of dynamically generated websites as part of an MVC or an MVT or some other software architecture. Whether it&#39;s a php backend with Drupal or Magento or Python and Django, front-end developers build and maintain this files and their objects and methods, variables, loops, boolean and conditional statements.</p>
+		<p>
+			A surprisingly little-discussed area of front-end development, the flexibility and maintenance of these make a site what it is and what it will become as more powerful functionality is added to it.</p>
+		<p>
+			&nbsp;</p>
+		<p>
+			&nbsp;</p>
+	</div>
+</div>

@@ -1,0 +1,47 @@
+<h1 style="text-align: center;">
+	<b>User interface design</b> (<b>UI</b>)</h1>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p style="text-align: center;">
+	<img alt="" src="https://udemy-images.udemy.com/course/750x422/381524_7136_15.jpg" style="width: 750px; height: 422px;" /></p>
+<p style="text-align: center;">
+	&nbsp;</p>
+<p>
+	User interface design requires a good understanding of user needs. There are several phases and processes in the user interface design, some of which are more demanded upon than others, depending on the project.</p>
+<h3>
+	User Experience Designers</h3>
+<p>
+	We have delivered innovative user experiences as a digital partner to some of the world&rsquo;s leading brands, including ABB, Johnson Controls, Intact, PNC Bank, RSA, and AAA, Hatch, Scotia Bank and more.</p>
+<h3>
+	Usability Consultants</h3>
+<p>
+	Rossul&rsquo;s User-Centered Design (UCD) methodology involves the user as a stakeholder throughout the creation process, making certain that your online products are both usable and useful.</p>
+<h3>
+	User Interface Designers</h3>
+<p>
+	Driven by our passion for compelling and usable designs, we specialize in user interfaces for desktop, mobile and tablets across a wide range of markets.</p>
+<p>
+	&nbsp;</p>
+<p style="text-align: center;">
+	<img alt="" src="http://media02.hongkiat.com/ui-designer-portfolios/3-creative-UI-designers-portfolios-2.jpg" style="width: 600px; height: 402px;" /></p>
+<p>
+	&nbsp;</p>
+<div class="webconsult center-title">
+	<div class="container">
+		<h2 style="text-align: center;">
+			<span>Our website designs are creative,</span>user-friendly, functional &amp; affordable.</h2>
+		<p>
+			&nbsp;</p>
+		<p style="margin: 22px 0 35px;">
+			There&#39;s more to good web design than a website that looks great. It also needs to be coded in such a way that it&#39;s easy for search engines to find and crawl your website. Greater search engine visibility leads to more traffic and more business!</p>
+		<p style="margin: 22px 0 35px;">
+			<br />
+			<strong>Please feel free to discuss your custom website development requirements. We will be glad to get back to you immediately for a prompt discussion. We are sure that you will like our portfolio of UI Design services.</strong></p>
+		<p style="margin: 22px 0 35px;">
+			&nbsp;</p>
+		<p style="margin: 22px 0 35px;">
+			&nbsp;</p>
+	</div>
+</div>
